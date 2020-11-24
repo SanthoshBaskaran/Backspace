@@ -3,4 +3,4 @@ sign.
 Input: a<bc<
 output: b
 
-                                                              https://open.kattis.com/problems/backspace
+                                         https://open.kattis.com/problems/backspace
